@@ -1,2 +1,2 @@
 # vincentliu.github.io
-The personal github repository of Vincent Liu
+The personal GitHub repository of Vincent Liu
